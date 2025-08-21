@@ -15,7 +15,7 @@ This project and its code are designed to run within Snowflake and Notebooks, wh
 ### 01_eda.sql
 * Exploratory SQL for core metrics
 * Agent and call segmentation
-* Satisfaction, escalation, and flagging logic
+* Satisfaction, escalation, and flagging
 
 ### 02_visualisation.png
 * Tableau dashboard of key metrics

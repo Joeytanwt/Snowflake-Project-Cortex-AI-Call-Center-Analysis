@@ -38,7 +38,6 @@ GROUP BY handler_id
 ORDER BY avg_performance_score DESC;
 
 -- Escalation & resolution rate, customer satisfaction
-%sql
 WITH call_patterns AS (
     SELECT 
         primary_intent,
